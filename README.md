@@ -18,8 +18,8 @@
 - （1）唐三：https://gh.t4tv.hz.cz/newtang.bmp 
 - （2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json 
 - （3）俊于：http://home.jundie.top:81/top98.json 
-- （4）饭太硬：http://饭太硬.top/tv 
-- （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖 
+- （4）饭太硬：http://fty.xxooo.cf/tv 
+- （5）肥猫：http://肥猫.com
 - （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json 
 - （7）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json 
 - （8）小雅：http://drpy.site/js1 
@@ -38,8 +38,9 @@
 - （21）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json 
 - （22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json 
 - （23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json 
-- （24）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒 
+- （24）月光宝盒：http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg/jsm2.json
 - （25）好人：https://xhdwc.tk/0  
+- （26）牛二线路：https://9280.kstore.space/wex.json
 
 ## 📡LIVE直播源
 | 源名        | 链接   |
