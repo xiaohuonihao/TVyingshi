@@ -1,8 +1,13 @@
 {
   "urls": [
     {
-      "url": "https://codeberg.org/xiaohuo1251/baohe/raw/branch/main/ziyongyuan.json",
+      "url": "https://d.kstore.dev/download/13035/baohe.json",
       "name": "【自用影视】"
+    },
+    
+    {
+      "url": "https://codeberg.org/xiaohuo1251/baohe/raw/branch/main/ziyongyuan.json",
+      "name": "【自用影视2】"
     },
     {
       "url": "https://git.acwing.com/xiaohuo/baohe/-/raw/main/beiyong_%E9%A5%AD%E5%A4%AA%E7%A1%AC%E6%BA%90_.json",
